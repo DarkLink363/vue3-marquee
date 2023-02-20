@@ -1,5 +1,6 @@
 {
   "name": "vue3-marquee-monorepo",
+  "type": "module",
   "private": "true",
   "scripts": {
     "build": "pnpm build --filter vue3-marquee"
